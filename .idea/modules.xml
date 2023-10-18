@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/html/01html.iml" filepath="$PROJECT_DIR$/html/01html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH01_HTML/CH01_HTML.iml" filepath="$PROJECT_DIR$/CH01_HTML/CH01_HTML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH02_CSS_JS/CH02_CSS_JS.iml" filepath="$PROJECT_DIR$/CH02_CSS_JS/CH02_CSS_JS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03_TOMCAT_servlet/CH03_TOMCAT_servlet.iml" filepath="$PROJECT_DIR$/CH03_TOMCAT_servlet/CH03_TOMCAT_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS_JS/CSS_JS.iml" filepath="$PROJECT_DIR$/CSS_JS/CSS_JS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb.iml" filepath="$PROJECT_DIR$/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro01_javaweb_begin/pro01_javaweb_begin.iml" filepath="$PROJECT_DIR$/pro01_javaweb_begin/pro01_javaweb_begin.iml" />
+    </modules>
+  </component>
+</project>
