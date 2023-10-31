@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CH10_fruit2.3_mvc_transaction:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CH10_fruit2_3_mvc_transaction_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CH10_fruit2.3_mvc_transaction" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="thymeleaf_lib" />
+          <element id="library" level="project" name="mysql-connector-java-8026" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="CH10_fruit2.3_mvc_transaction/web/Web" />
+    </root>
+  </artifact>
+</component>

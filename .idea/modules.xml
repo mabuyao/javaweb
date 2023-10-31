@@ -6,9 +6,16 @@
       <module fileurl="file://$PROJECT_DIR$/CH01_HTML/CH01_HTML.iml" filepath="$PROJECT_DIR$/CH01_HTML/CH01_HTML.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH02_CSS_JS/CH02_CSS_JS.iml" filepath="$PROJECT_DIR$/CH02_CSS_JS/CH02_CSS_JS.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH03_TOMCAT_servlet/CH03_TOMCAT_servlet.iml" filepath="$PROJECT_DIR$/CH03_TOMCAT_servlet/CH03_TOMCAT_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH04_javaweb_servlet/CH04_javaweb_servlet.iml" filepath="$PROJECT_DIR$/CH04_javaweb_servlet/CH04_javaweb_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_fruit1.4_thymeleaf/CH05_fruit1.4_thymeleaf.iml" filepath="$PROJECT_DIR$/CH05_fruit1.4_thymeleaf/CH05_fruit1.4_thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_fruit1.5_thymeleaf/CH06_fruit1.5_thymeleaf.iml" filepath="$PROJECT_DIR$/CH06_fruit1.5_thymeleaf/CH06_fruit1.5_thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH07_fruit1.6_pagination/CH07_fruit1.6_pagination.iml" filepath="$PROJECT_DIR$/CH07_fruit1.6_pagination/CH07_fruit1.6_pagination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH08_fruit1.7_keyword/CH08_fruit1.7_keyword.iml" filepath="$PROJECT_DIR$/CH08_fruit1.7_keyword/CH08_fruit1.7_keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_filter_listener/CH09_filter_listener.iml" filepath="$PROJECT_DIR$/CH09_filter_listener/CH09_filter_listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH10_fruit2.3_mvc_transaction/CH10_fruit2.3_mvc_transaction.iml" filepath="$PROJECT_DIR$/CH10_fruit2.3_mvc_transaction/CH10_fruit2.3_mvc_transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/CSS_JS/CSS_JS.iml" filepath="$PROJECT_DIR$/CSS_JS/CSS_JS.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb.iml" filepath="$PROJECT_DIR$/javaweb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pro01_javaweb_begin/pro01_javaweb_begin.iml" filepath="$PROJECT_DIR$/pro01_javaweb_begin/pro01_javaweb_begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro01_qqzone1.0/pro01_qqzone1.0.iml" filepath="$PROJECT_DIR$/pro01_qqzone1.0/pro01_qqzone1.0.iml" />
     </modules>
   </component>
 </project>

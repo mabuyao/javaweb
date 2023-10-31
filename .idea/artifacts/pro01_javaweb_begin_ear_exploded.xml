@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-ear" name="pro01_javaweb_begin:ear exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/pro01_javaweb_begin_ear_exploded</output-path>
-    <root id="root">
-      <element id="javaee-facet-resources" facet="pro01_javaweb_begin/javaeeApplication/javaEEApplication" />
-    </root>
-  </artifact>
-</component>
